@@ -1,0 +1,9 @@
+127.0.0.1 - - [03/Oct/2022:13:12:23 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:12:23 +0900] "GET /BBS/WEB-INF/classes/user/UserDAO.java HTTP/1.1" 404 722
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:12:43 +0900] "GET /BBS/login.jsp HTTP/1.1" 200 2127
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:12:43 +0900] "GET /BBS/css/bootstrap.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:12:43 +0900] "GET /BBS/js/bootstrap.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:12:45 +0900] "POST /BBS/LoginAction.jsp HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:13:17 +0900] "POST /BBS/LoginAction.jsp HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:13:20 +0900] "GET /BBS/login.jsp HTTP/1.1" 200 2127
+0:0:0:0:0:0:0:1 - - [03/Oct/2022:13:13:21 +0900] "POST /BBS/loginAction.jsp HTTP/1.1" 500 3548
